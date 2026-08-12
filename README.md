@@ -1,4 +1,4 @@
-# BashFuscate
+# ScriptFuscate
 Simple script obfuscation toolkit, written in Python <br>
 Простой обфускатор разных скриптов, написанный на Python <br>
 
@@ -19,8 +19,8 @@ Replaces each character with a reference in the shuffled string <br>
 To use this, you need Python 3 <br>
 Чтобы это использовать, вам нужен будет Python 3 <br>
 <br>
-git clone https://github.com/ceftriaxon-iv/BashFuscate/  <br>
-cd BashFuscate  <br>
+git clone https://github.com/ceftriaxon-iv/ScriptFuscate/  <br>
+cd ScriptFuscate  <br>
 python main.py -f (Script name with extension here, ex. thingamajong.ps1) -o (Output filename, optional)
 
 # Warning
