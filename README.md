@@ -21,7 +21,6 @@ To use this, you need Python 3 <br>
 <br>
 git clone https://github.com/ceftriaxon-iv/BashFuscate/  <br>
 cd BashFuscate  <br>
-pip install -r requirements.txt  <br>
 python main.py -f (Script name with extension here, ex. thingamajong.ps1) -o (Output filename, optional)
 
 # Warning
